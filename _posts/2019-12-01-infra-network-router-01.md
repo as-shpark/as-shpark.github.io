@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '라우터 개요'
-subtitle: ''
+subtitle: '라우터 개요'
 categories: infra
 tags: network
 comments: false

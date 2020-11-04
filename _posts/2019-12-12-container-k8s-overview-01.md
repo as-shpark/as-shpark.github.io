@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '쿠버네티스 개요'
-subtitle: ''
+subtitle: '쿠버네티스에 대해 간략하게 알아보자'
 categories: container
 tags: Kubernetes
 comments: false

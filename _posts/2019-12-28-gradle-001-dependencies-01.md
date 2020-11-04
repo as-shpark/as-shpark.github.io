@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gradle dependencies 구성'
-subtitle: ''
+subtitle: 'dependencies를 명시하는 방법에 대해 알아보자'
 categories: gradle
 tags: gradle
 comments: false

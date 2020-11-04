@@ -19,7 +19,7 @@
 ...
 authorization:
   mode: AlwaysAllow
-...
+```
 
 3) kubelet을 재시작 한다. 
 > systemctl restart kubelet
@@ -140,6 +140,7 @@ data:
 * 서버 인증서의 유효성 검사를 건너 띄기 위에 insecure_skip_verify를 true로 설정한다. 
 ```
 - 참고: https://prometheus.io/docs/prometheus/latest/configuration/configuration/
+```
 
 #### 5. 프로메테우스 파드 및 서비스 생성 ####
 - 프로메테우스 파드를 실행할 Deployment를 정의한다. 

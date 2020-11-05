@@ -26,7 +26,7 @@ comments: false
 5) Service discovery
 - 프로메테우스는 기본적으로 스크랩 대상에 대한 정보를 설정 파일에 등록하여 가지고 있다. 하지만 이 방법은 동적 환경을 다룰 때 적절한 옵션이 아니다. 이를 대체하기 위해 서비스 디스커버리를 사용한다. 서비스 디스커버리가 동적으로 생성, 삭제되는 타겟 정보를 관리하고 프로메테우스 서버는 이 목록으로부터 메트릭을 스크랩하게 된다.   
 
-5) API clients
+
 ### 참고 자료
 - https://github.com/prometheus/pushgateway
 - https://prometheus.io/docs/introduction/overview/

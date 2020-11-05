@@ -1,3 +1,12 @@
+---
+layout: post
+title: '쿠버네티스에서 프로메테우스 연동'
+subtitle: 'Prmetheus를 쿠버네티스 환경에서 띄워보자'
+categories: container
+tags: prometheus
+comments: false
+---
+
 ## 쿠버네티스에서 프로메테우스 설치 및 kubelet 데이터 조회 ##
 
 #### 단계 ####

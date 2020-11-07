@@ -28,6 +28,7 @@ author:
 # Fallback image and color
 image:               #/assets/img/bg01.png
 color:               '#8ddfff'
+char_color:          '#5ff656b'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 font_heading:        "'Lato', 'Sans-serif'"

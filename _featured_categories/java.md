@@ -3,7 +3,7 @@ layout: list
 title: java
 menu: true
 submenu: false
-order: 2
+order: 3
 description: >
   자바와 관련된 내용을 정리하였습니다.  
 ---

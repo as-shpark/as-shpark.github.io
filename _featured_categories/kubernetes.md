@@ -1,7 +1,6 @@
 ---
 layout: list
 title: kubernetes
-slug: kubernetes
 menu: true
 submenu: false
 order: 2

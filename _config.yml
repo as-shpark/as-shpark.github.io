@@ -18,7 +18,7 @@ tagline:             발견하는 기쁨이 있는 한 모험은 계속된다
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  더 성장하여 좋은 계속 서비스를 개발하고 싶은 개발자입니다
+#  더 성장하여 좋은 서비스를 개발하고 싶은 개발자입니다
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:

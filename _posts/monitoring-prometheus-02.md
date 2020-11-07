@@ -2,7 +2,7 @@
 layout: post
 title: '쿠버네티스에서 프로메테우스 연동'
 subtitle: 'Prmetheus를 쿠버네티스 환경에서 띄워보자'
-categories: container
+categories: monitoring
 tags: prometheus
 comments: false
 ---

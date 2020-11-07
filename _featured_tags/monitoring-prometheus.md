@@ -2,7 +2,7 @@
 layout: tag-blog
 title: prometheus
 slug: prometheus
-category: container
+category: monitoring
 menu: false
-order: 3
+order: 1
 ---

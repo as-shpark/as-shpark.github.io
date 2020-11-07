@@ -1,10 +1,9 @@
 ---
 layout: list
 title: spring
-slug: spring
 menu: true
-submenu: true
-order: 3
+submenu: false
+order: 2
 description: >
-  스프링과 관련하여 학습한 내용을 정리해 놓았습니다. 
+  스프링과 관련된 내용을 정리하였습니다.  
 ---

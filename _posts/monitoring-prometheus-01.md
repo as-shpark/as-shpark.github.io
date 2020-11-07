@@ -3,7 +3,6 @@ layout: post
 title: 'Prometheus의 기본 구성 요소'
 subtitle: 'Prmetheus의 기본 구성 요소에 대해 알아보자'
 categories: monitoring
-tags: prometheus
 comments: false
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: list
-title: monitoring
+title: kubernetes
+slug: kubernetes
 menu: true
 submenu: false
 order: 2

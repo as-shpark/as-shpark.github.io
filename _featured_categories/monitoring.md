@@ -5,5 +5,5 @@ menu: true
 submenu: false
 order: 2
 description: >
-  도커와 관련된 내용을 정리하였습니다.  
+  모니터링과 관련된 내용을 정리하였습니다.  
 ---

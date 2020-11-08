@@ -13,7 +13,7 @@ url:                 https://as-shpark.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             발견하는 기쁨이 있는 한 모험은 계속된다
+tagline:             Development is difficult. But it's fun. #발견하는 기쁨이 있는 한 모험은 계속된다
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
